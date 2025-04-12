@@ -24,7 +24,7 @@ Dataset diambil dari Kaggle dengan topik Tomato Diseases Dataset (CSV+Images) ol
 ### 🖼️ Preview Image 
 
 Berikut merupakan contoh dari data-data gambar yang digunakan
-<image src="https://drive.google.com/file/d/1gKOIF7DiMNPXdLRqPm9AEyCJkDzx8fB_/preview" width="300" height="200"></image>
+![Preview Gambar](https://github.com/bisat19/Klasifikasi-Gambar-Fix/blob/main/images/download.png)
 
 ### 🤖 Model
 
@@ -50,9 +50,9 @@ Secara garis besar model dibentuk dari Deep Convolutional Neural Network dengan 
 ### 📊 Evaluasi Model
 
 Berikut merupakan evaluasi model yang dibentuk
-<image src="https://drive.google.com/file/d/1Xcudssyoa38M83LysnL_z97wUGIRQoxt/preview" width="300" height="200"></image>
+![Hasil Evaluasi](https://github.com/bisat19/Klasifikasi-Gambar-Fix/blob/main/images/download%20(1).png)
 
 ### Prediksi
 
 Berikut merupakan hasil prediksi dengan menggunakan model yang dibentuk
-<image src="https://drive.google.com/file/d/1x4-vTd8jGTWHvagkDNr_zQwhia8KmbS3/preview" width="400" height="400"></image>
+![Hasil Prediksi](https://github.com/bisat19/Klasifikasi-Gambar-Fix/blob/main/images/download%20(2).png)
