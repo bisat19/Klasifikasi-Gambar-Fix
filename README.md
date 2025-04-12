@@ -55,4 +55,4 @@ Berikut merupakan evaluasi model yang dibentuk
 ### Prediksi
 
 Berikut merupakan hasil prediksi dengan menggunakan model yang dibentuk
-<image src="https://drive.google.com/file/d/1x4-vTd8jGTWHvagkDNr_zQwhia8KmbS3/preview"width="400" height="400"></image>
+<image src="https://drive.google.com/file/d/1x4-vTd8jGTWHvagkDNr_zQwhia8KmbS3/preview" width="400" height="400"></image>
